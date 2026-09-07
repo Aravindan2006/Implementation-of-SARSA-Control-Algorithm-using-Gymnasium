@@ -197,6 +197,7 @@ Learned Policy:
 Average reward over last 1000 episodes: 
 
 <img width="452" height="40" alt="Screenshot 2026-09-07 211242" src="https://github.com/user-attachments/assets/6a59039c-076e-4964-ad68-96360df5b4cc" />
+<img width="913" height="600" alt="Screenshot 2026-09-07 213553" src="https://github.com/user-attachments/assets/f6c319bb-93f1-4219-a626-9b1b896de12f" />
 
 
 ---
